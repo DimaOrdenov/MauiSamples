@@ -1,0 +1,11 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Push notification",
+            "body" : "You have sent it on simulator",
+            "content-available": 1
+        },
+        "badge" : 1
+    },
+    "Simulator Target Bundle" : "com.dordenov.mauipushnotifications"
+}
